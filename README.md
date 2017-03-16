@@ -9,12 +9,13 @@ The Techno Union (+10 points to anyone who gets the reference) is a community fo
 
 This isn't a place to pitch "your next big idea" to investors or try to [recruit free labor](http://whartoniteseekscodemonkey-blog.tumblr.com/). 
 
-## The Techno Union is a place to:
-- Find other independent tech workers to have a **Work Session** with.
+## Community Objectives
+- Find other independent tech workers to have a **Work Session** with
 - Find other independent tech workers to have lunch or coffee with
 - Discuss strategies on talking to and negotiating with clients
 - Ask other experts questions when Slack Overflow has failed you
 - Have open and honest discussions about Tech Working Culture (in all its glory and all its horrors)
+
 
 ## Work Session
 
